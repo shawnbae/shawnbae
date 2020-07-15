@@ -1,4 +1,4 @@
-## Data Scientist/Analyst who loves finding Insights
+## Insights Through Data
 ### Skills
 - Python/R language
 - Machine Learning/Deep Learning Engineering
