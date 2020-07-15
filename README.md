@@ -1,5 +1,11 @@
-## Data Scientist/Data Analyst
-- Machine Learning/Deep Learning
+## Data Scientist/Analyst who loves finding Insights
+<br>
+### Skills
+- Python/R
+- Machine Learning/Deep Learning Engineering
 - Natural Language Processing
-- Statistics
-- Jop Seeker
+- Data Preprocessing
+- Statistical Domain
+- SQL
+
+### 
