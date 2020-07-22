@@ -5,7 +5,7 @@
 - Natural Language Processing
 - Data Preprocessing/Visualization skills
 - Statistical Knowledge
-- SQL(Database)
+- SQL
 - Git SCM
 
 ## Projects
