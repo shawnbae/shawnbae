@@ -16,6 +16,6 @@
 - [교내 통계자료분석/데이터 마이닝 수업 프로젝트](https://github.com/shawnbae/Projects_portfolio/tree/master/Classes)
 
 ## Domain
-- Finanace Data
+- Finance Data
 - Language Data
 - Statistics
