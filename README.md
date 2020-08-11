@@ -1,5 +1,6 @@
 # Statistics and Data science
 Junior Data Scientist who loves Statistics and everything about Data 🖌
+
 Yonsei Univ. Applied Stats BS 🎓
 
 ## Skills 👍
