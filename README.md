@@ -4,7 +4,7 @@ Junior Data Scientist who loves Statistics and everything about Data 🖌
 Yonsei Univ. Applied Stats BS 🎓
 
 ## Skills 👍
-- Python & R Language 💻
+- Python(Proficient) & R(Intermediate) Language 💻
 - Machine Learning/Deep Learning Engineering 📱
 - Natural Language Processing 📰
 - Web Crawling 🗺
