@@ -9,7 +9,7 @@ Yonsei Univ. Applied Statistics BS 🎓
 - Machine Learning & Deep Learning Engineering 📱
 - Natural Language Processing 📰
 - Web Crawling & REST API 🗺
-- Data Preprocessing/Visualization skills 🧭
+- Data Preprocessing & Visualization skills 🧭
 - Statistical Knowledge 📊
 - SQL & basic spark 📋
 - Git Bash 📤
