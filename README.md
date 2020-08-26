@@ -14,7 +14,7 @@ Yonsei Univ. Applied Statistics BS 🎓
 - SQL(Proficient) & basic spark 📋
 - Git Bash for version control & collaboration 📤
 - Basic Linux Development
-- Papers about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet)
+- Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet)
 
 
 ## Projects 🧑‍💼
