@@ -6,13 +6,15 @@ Yonsei Univ. Applied Statistics BS 🎓
 
 ## Skills 👍
 - Python(Proficient) & R(Intermediate) Language 💻
-- Machine Learning & Deep Learning Engineering 📱
-- Natural Language Processing 📰
-- Web Crawling & REST API 🗺
-- Data Preprocessing & Visualization skills 🧭
-- Statistical Knowledge 📊
-- SQL & basic spark 📋
-- Git Bash 📤
+- Machine Learning & Deep Learning Engineering (usually using tf-Keras for DL) 📱
+- Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
+- Web Crawling & REST API (Proficient) 🗺
+- Data Preprocessing & Visualization skills through Python & R packages 🧭
+- Deep Statistical Knowledge 📊
+- SQL(Proficient) & basic spark 📋
+- Git Bash for version control & collaboration 📤
+- Basic Linux Development
+- Papers about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet)
 
 
 ## Projects 🧑‍💼
