@@ -6,7 +6,7 @@ Yonsei Univ. Applied Statistics BS 🎓
 
 ## Skills 👍
 - Python(Proficient) & R(Intermediate) Language 💻
-- Machine Learning & Deep Learning Engineering (usually using TF-Keras for DL) 📱
+- Machine Learning & Deep Learning Engineering (usually using Tensorflow-Keras for DL) 📱
 - Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
 - Web Crawling & REST API (Proficient) 🗺
 - Data Preprocessing & Visualization skills through Python & R packages 🧭
