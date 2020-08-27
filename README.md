@@ -11,9 +11,9 @@ Yonsei Univ. Applied Statistics BS 🎓
 - Web Crawling & REST API (Proficient) 🗺
 - Data Preprocessing & Visualization skills through Python & R packages 🧭
 - Deep Statistical Knowledge 📊
-- SQL(Proficient) & basic spark 📋
+- SQL(Proficient) & spark(Basic) 📋
 - Git Bash for version control & collaboration 📤
-- Basic Linux Development 🖥
+- Linux Development(Basic) 🖥
 - Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet) 🗳
 
 
