@@ -6,15 +6,15 @@ Yonsei Univ. Applied Statistics BS 🎓
 
 ## Skills 👍
 - Python(Proficient) & R(Intermediate) Language 💻
-- Machine Learning & Deep Learning Engineering (usually using tf-Keras for DL) 📱
+- Machine Learning & Deep Learning Engineering (usually using TF-Keras for DL) 📱
 - Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
 - Web Crawling & REST API (Proficient) 🗺
 - Data Preprocessing & Visualization skills through Python & R packages 🧭
 - Deep Statistical Knowledge 📊
 - SQL(Proficient) & basic spark 📋
 - Git Bash for version control & collaboration 📤
-- Basic Linux Development
-- Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet)
+- Basic Linux Development 🖥
+- Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet) 🗳
 
 
 ## Projects 🧑‍💼
@@ -26,6 +26,8 @@ Yonsei Univ. Applied Statistics BS 🎓
 
 
 ## Interests 🚴‍♀️
-- Finance Data 📈
-- Language Data 📄
+- Finance Data Analysis 📈
+- Natural Language Data Analysis (From Text mining to Deep Learning) 📄
 - Statistics 📖
+
+![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
