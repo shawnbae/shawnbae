@@ -13,7 +13,7 @@ Yonsei Univ. Applied Statistics BS 🎓
 - Deep Statistical Knowledge 📊
 - SQL(Proficient) & spark(Basic) 📋
 - Git Bash for version control & collaboration 📤
-- Linux Development(Basic) 🖥
+- Basic Linux Knowledge 🖥
 - Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet) 🗳
 
 
