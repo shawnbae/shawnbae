@@ -27,8 +27,8 @@ Yonsei Univ. Applied Statistics BS 🎓
 
 
 ## Interests 🚴‍♀️
-- Finance Data Analysis 📈
-- Natural Language Data Analysis (From Text mining to Deep Learning) 📄
+- Finance Data 📈
+- Language Data 📄
 - Statistics 📖
 
 ![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
