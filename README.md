@@ -1,7 +1,7 @@
 # Statistics and Data science
 Junior Data Scientist who loves Statistics and everything about Data 🖌
 
-Yonsei Univ. Applied Statistics BS 🎓
+Yonsei Univ. Applied Statistics BS (graduated)🎓
 
 
 ## Skills 👍
