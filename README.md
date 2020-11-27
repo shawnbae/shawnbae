@@ -24,7 +24,7 @@ Yonsei Univ. Applied Statistics BS (graduated)🎓
 - [2020 빅콘테스트 혁신아이디어 부문 프로젝트](https://github.com/shawnbae/Projects/tree/master/Competition/2020%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%98%81%EC%8B%A0%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B6%80%EB%AC%B8)
 
 
-## Interests 🚴‍♀️
+## Domain 🚴‍♀️
 - Finance Data 📈
 - Language Data 📄
 - Statistics 📖
