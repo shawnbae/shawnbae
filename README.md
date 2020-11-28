@@ -7,7 +7,7 @@ Yonsei Univ. Applied Statistics BS (graduated)🎓
 - Machine Learning & Deep Learning Engineering (usually using Tensorflow-Keras for DL) 📱
 - Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
 - Web Crawling & REST API (Proficient) 🗺
-- Data Preprocessing & Visualization skills through Python & R packages 🧭
+- Data Preprocessing & Visualization skills: Numpy, Pandas, matplotlib etc (Proficient) 🧭
 - Statistical Knowledge(Proficient) 📊
 - Git (Proficient) 📤
 - SQL (Intermediate) 📋
