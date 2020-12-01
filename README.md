@@ -8,7 +8,7 @@ Yonsei Univ. Applied Statistics BS (graduated)🎓
 - Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
 - Web Crawling & REST API (Proficient) 🗺
 - Data Preprocessing & Visualization skills: Numpy, Pandas, matplotlib etc (Proficient) 🧭
-- Statistical Knowledge(Proficient) 📊
+- Statistical Knowledge (Proficient) 📊
 - Git (Proficient) 📤
 - SQL (Intermediate) 📋
 - Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet) 🗳
