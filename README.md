@@ -11,7 +11,7 @@ Yonsei Univ. Applied Statistics BS (graduated)🎓
 - Statistical Knowledge (Proficient) 📊
 - Git (Proficient) 📤
 - SQL (Intermediate) 📋
-- Paper Knowledge about Deep Learning, Especially about Language Models (Like Attention transformer / BERT / XLNet) 🗳
+- Paper Knowledge about Deep Learning, Especially about Language Models (Attention transformer / BERT / XLNet) 🗳
 - Spark & Hadoop (Basic) 📲
 - Linux (Basic) 🖥
 
