@@ -1,7 +1,3 @@
-# Junior Data Scientist
-Yonsei Univ. Applied Statistics BS (graduated)🎓
-
-
 ## Skills 👍
 - Python(Proficient) & R(Intermediate) Language 💻
 - Machine Learning & Deep Learning Engineering (usually using Tensorflow-Keras for DL) 📱
