@@ -1,12 +1,19 @@
-## Skills 👍
-- Python(Proficient) & R(Intermediate) Language 💻
-- Machine Learning & Deep Learning Engineering (usually using Tensorflow-Keras for DL) 📱
+Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.
+
+## Tech Stacks 👍
+### I'm Good at
+- Python (Proficient)
+  - All Type of Data PreProcessing
+- R (Intermediate)
+- SQL (Intermediate)
+- Git (Intermediate)
+- Machine Learning & Deep Learning Engineering 📱
+- Intermediate understanding of DataBase Engineering
+- Basic understanding of Frontend Development (html & css & server-client)
+- Basic understanding of DevOps Engineering
+
 - Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
-- Web Crawling & REST API (Proficient) 🗺
 - Data Preprocessing & Visualization skills: Numpy, Pandas, matplotlib etc (Proficient) 🧭
-- Statistical Knowledge (Proficient) 📊
-- Git (Proficient) 📤
-- SQL (Intermediate) 📋
 - Paper Knowledge about Deep Learning, Especially about Language Models (Attention transformer / BERT / XLNet) 🗳
 - Spark & Hadoop (Basic) 📲
 - Linux (Basic) 🖥
