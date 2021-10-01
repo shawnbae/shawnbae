@@ -1,13 +1,21 @@
-**Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.**
+**Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.** 
 
 ## Tech Stacks 👍
-### I'm Good at
 - Python (Proficient)
-  - All Type of Data PreProcessing
+  - All Type of Data PreProcessing & Visualization
+  - Data Analysis
+  - DataBase Engineering
+  - RPA Development
+  - Machine Learning & Deep Learning Engineering 📱
+
 - R (Intermediate)
+  - Data Analysis
+
 - SQL (Intermediate)
+  - Proficient at making data mart
+  - 
 - Git (Intermediate)
-- Machine Learning & Deep Learning Engineering 📱
+
 - Intermediate understanding of DataBase Engineering
 - Basic understanding of Frontend Development (html & css & server-client)
 - Basic understanding of DevOps Engineering
