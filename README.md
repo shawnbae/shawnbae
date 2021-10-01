@@ -1,4 +1,4 @@
-Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.
+**Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.**
 
 ## Tech Stacks 👍
 ### I'm Good at
