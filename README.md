@@ -29,4 +29,4 @@
 
 ![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
 
-![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hironomiu&theme=radical)
+![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbae&theme=radical)
