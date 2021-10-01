@@ -1,32 +1,46 @@
-**Hi, I'm currently working at SK materials as Junior Data Analyst & RPA Developer & Data Engineer.** 
+### Introduction ✋
+Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineering & DevOps Engineering. 
 
-## Tech Stacks 👍
-- Python (Proficient)
-  - All Type of Data PreProcessing & Visualization
-  - Data Analysis
-  - DataBase Engineering
-  - RPA Development
-  - Machine Learning & Deep Learning Engineering 📱
+---
+### Tech Stacks 👍
+- **Python** (Proficient)
+  - All Type of Data PreProcessing & Visualization 🗺
+  - Data Analysis & Machine Learning & Deep Learning Engineering 📱
+  - DataBase Engineering 🗄
+  - RPA Development ⚙️
+  - Web Development (Flask & Django) 📇
 
-- R (Intermediate)
-  - Data Analysis
+- **R** (Intermediate)
+  - Statistical Data Analysis 📊
 
-- SQL (Intermediate)
-  - Proficient at making data mart
-  - 
-- Git (Intermediate)
+- **SQL** (Intermediate)
 
-- Intermediate understanding of DataBase Engineering
-- Basic understanding of Frontend Development (html & css & server-client)
-- Basic understanding of DevOps Engineering
+- **Git** (Intermediate)
 
-- Natural Language Processing: Regex, preprocessing(nltk / KoNLPy / Mecab), Language Models with Deep Learning 📰
-- Data Preprocessing & Visualization skills: Numpy, Pandas, matplotlib etc (Proficient) 🧭
-- Paper Knowledge about Deep Learning, Especially about Language Models (Attention transformer / BERT / XLNet) 🗳
-- Spark & Hadoop (Basic) 📲
-- Linux (Basic) 🖥
+- **Julia** (Basic)
 
+- **C++** (Basic)
 
+- **Java** (Basic)
+
+- **Frameworks & Tools**
+  - Apache Hadoop & Spark
+  - ElasticSearch & Logstash & Kibanau
+  - Tableau & PowerBI & Splunk
+  - Spring
+  - AWS EC2
+---
+### Work Experience
+- **Lotte Members**
+  - SQL을 통한 Data Mart 제작
+
+- **SK materials**
+  - RPA Development: Python으로 업무 자동화 시스템 개발
+  - Server-Client DataBase System: 공정 데이터 정제 자동화 프로세스를 통한 MSSQL 구축
+  - Basic Web Development: Flask기반 공정 데이터 Dashboard 제작
+  - 사내 Python 교육
+
+---
 ## Projects 🧑‍💼
 - [2020 빅콘테스트 혁신아이디어 부문 프로젝트](https://github.com/shawnbae/Projects/blob/master/Competition/2020%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%98%81%EC%8B%A0%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B6%80%EB%AC%B8/%EC%97%AD%EC%82%BC1701%ED%98%B8.pdf)
 - [혁신성장 청년인재 수료 프로젝트](https://github.com/shawnbae/Projects/blob/master/ECOBEE.pdf)
@@ -35,13 +49,7 @@
 - [딥러닝 논문 스터디 및 구현 프로젝트](https://github.com/shawnbae/Projects/tree/master/DeepLearning) 
 - [교내 통계자료분석/데이터 마이닝 수업 프로젝트](https://github.com/shawnbae/Projects/tree/master/Classes)
 
-
-
-## Domain 🚴‍♀️
-- Finance Data 📈
-- Language Data 📄
-- Statistics 📖
-
+---
 ![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
 
 ![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbae&theme=radical)
