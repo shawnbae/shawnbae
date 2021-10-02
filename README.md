@@ -33,9 +33,9 @@ Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineerin
   - SQL을 통한 Data Mart 제작
 
 - **SK materials**
-  - RPA Development: Python으로 업무 자동화 시스템 개발
-  - Server-Client DataBase System: 공정 데이터 정제 자동화 프로세스를 통한 MSSQL 구축
-  - Basic Web Development: Flask기반 공정 데이터 Dashboard 제작
+  - **RPA Development:** Python으로 업무 자동화 시스템 개발
+  - **Server-Client DataBase System:** 공정 데이터 정제 자동화 프로세스를 통한 MSSQL 구축
+  - **Basic Web Development:** Flask기반 공정 데이터 Dashboard 제작
   - 사내 Python 교육
 
 ---
