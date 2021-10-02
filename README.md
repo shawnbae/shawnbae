@@ -4,7 +4,7 @@ Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineerin
 
 ---
 ### Tech Stacks 👍
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/ios/50/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/ios/50/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/django.png"/>
 
 - **Python** (Proficient)
   - All Type of Data PreProcessing & Visualization 🗺
@@ -22,7 +22,8 @@ Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineerin
 
 ---
 ### I'm Learning 📚
-- **Computer Languages**: Julia, C++, Java
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/><img src="https://img.icons8.com/color/48/000000/logstash.png"/><img src="https://img.icons8.com/color/48/000000/kibana.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/><img src="https://img.icons8.com/color/48/000000/splunk.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+- **Computer Languages**: C++, Java, Julia
 
 - **Frameworks & Tools**: Apache Hadoop & Spark, ElasticSearch & Logstash & Kibana, AWS, Tableau & PowerBI & Splunk, Spring
 
