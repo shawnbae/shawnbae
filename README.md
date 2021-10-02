@@ -1,8 +1,11 @@
+---
 ### Introduction ✋
 Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineering & DevOps Engineering. 
 
 ---
 ### Tech Stacks 👍
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/ios/50/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/django.png"/>
+
 - **Python** (Proficient)
   - All Type of Data PreProcessing & Visualization 🗺
   - Data Analysis & Machine Learning & Deep Learning Engineering 📱
@@ -17,18 +20,12 @@ Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineerin
 
 - **Git** (Intermediate)
 
-- **Julia** (Basic)
+---
+### I'm Learning 📚
+- **Computer Languages**: Julia, C++, Java
 
-- **C++** (Basic)
+- **Frameworks & Tools**: Apache Hadoop & Spark, ElasticSearch & Logstash & Kibana, AWS, Tableau & PowerBI & Splunk, Spring
 
-- **Java** (Basic)
-
-- **Frameworks & Tools**
-  - Apache Hadoop & Spark
-  - ElasticSearch & Logstash & Kibanau
-  - Tableau & PowerBI & Splunk
-  - Spring
-  - AWS EC2
 ---
 ### Work Experience
 - **Lotte Members**
