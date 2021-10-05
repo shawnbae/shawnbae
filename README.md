@@ -1,6 +1,8 @@
 ---
 ## Introduction ✋
-Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineering & DevOps Engineering. 
+Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineering & DevOps Engineering.
+<br>
+Majored applied statistics in Yonsei University.
 
 ---
 ## Tech Stacks 👍
