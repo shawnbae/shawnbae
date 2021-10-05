@@ -25,7 +25,7 @@ Majored applied statistics in Yonsei University.
 ---
 ## I'm Learning 📚
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/><img src="https://img.icons8.com/color/48/000000/logstash.png"/><img src="https://img.icons8.com/color/48/000000/kibana.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/><img src="https://img.icons8.com/color/48/000000/splunk.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-- **Computer Languages**: C++, Java, Julia
+- **Computer Languages**: C++, Java, Julia. Go
 
 - **Frameworks & Tools**: Apache Hadoop & Spark, ElasticSearch & Logstash & Kibana, AWS, Tableau & PowerBI & Splunk, Spring
 
