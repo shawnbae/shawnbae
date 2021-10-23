@@ -31,12 +31,12 @@ Majored applied statistics in Yonsei University.
 
 ---
 ## Work Experience 👨‍💼
-- **Lotte Members**
+- **Lotte Members (2019.06 - 2020.02)**
   - SQL을 통한 Data Mart 제작
 
-- **SK materials**
+- **SK materials (2021.04 - )**
   - **RPA Development:** Python으로 업무 자동화 시스템 개발
-  - **Server-Client DataBase System:** 공정 데이터 정제 자동화 프로세스를 통한 MSSQL 구축
+  - **Server-Client DataBase System:** 공정 데이터 정제 자동화 프로세스를 통한 MSSQL Pipeline 구축
   - **Basic Web Development:** Flask기반 공정 데이터 Dashboard 제작
   - 사내 Python 교육
 
