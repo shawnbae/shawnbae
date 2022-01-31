@@ -50,6 +50,4 @@ Majored applied statistics in Yonsei University.
 - [교내 통계자료분석/데이터 마이닝 수업 프로젝트](https://github.com/shawnbae/Projects/tree/master/Classes)
 
 ---
-![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
-
-![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbae&theme=radical)
+![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbae&theme=radical)
