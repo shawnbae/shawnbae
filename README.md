@@ -1,26 +1,30 @@
 ---
 ## Introduction ✋
-Hi, I'm Junior Data Scientist. Interested in Data Analysis & DataBase Engineering & DevOps Engineering.
+Hi, I'm Junior Data Engineer/Scientist.
+<br>
+Interested in Data Engineering & MLOps & Data Analysis
 <br>
 Majored applied statistics in Yonsei University.
 
 ---
-## Tech Stacks 👍
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/external-becris-flat-becris/50/000000/external-r-data-science-becris-flat-becris.png"/><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/ios/50/000000/flask.png"/><img src="https://img.icons8.com/color/48/000000/django.png"/>
+## Tech Stacks 
+<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Go-8166CB?style=flat-square&logo=Go&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Java-2171QC?style=flat-square&logo=Java&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Scala-7201AC?style=flat-square&logo=Scala&logoColor=white"/></a></p>
+<p align="center">  <img src="https://img.shields.io/badge/Hive-8166CB?style=flat-square&logo=Hive&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Yarn-2171QC?style=flat-square&logo=Yarn&logoColor=white"/></a>  <img src="https://img.shields.io/badge/PostgreSQL-1811CE?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&logo=Django&logoColor=white"/></a></p>
 
-- **Python** (Proficient)
-  - All Type of Data PreProcessing & Visualization 🗺
-  - Data Analysis & Machine Learning & Deep Learning Engineering 📱
-  - DataBase Engineering 🗄
-  - RPA Development ⚙️
-  - Web Development (Flask & Django) 📇
+### Confident: 자신 있는 기술
+- Python, R, SQL, HTML, CSS
+- Pandas, Flask, scikit-learn, Tensorflow-keras, Pyspark, MSSQL
+- Git
 
-- **R** (Intermediate)
-  - Statistical Data Analysis 📊
+### Used: 사용해 본 기술
+- Java, C#, C++
+- .Net Framework / Django / 
+- Powershell / Unix Shell Script
+- Docker
+- AWS
+- Notion, Slack, Trello
+- Redis
 
-- **SQL** (Intermediate)
-
-- **Git** (Intermediate)
 
 ---
 ## I'm Learning 📚
