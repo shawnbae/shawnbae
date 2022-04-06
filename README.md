@@ -21,7 +21,7 @@ Majored applied statistics in Yonsei University.
 - Powershell / Unix Shell Script
 - Docker / Kubernetes
 - AWS EC2, S3
-- Notion, Slack, Trello
+- Notion, Slack, Trello, PowerBI, Tableau
 
 
 ---
