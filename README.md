@@ -17,12 +17,11 @@ Majored applied statistics in Yonsei University.
 
 ### Used: 사용해 본 기술
 - Java, C#, C++
-- .Net Framework / Django / 
+- .Net Framework / Django
 - Powershell / Unix Shell Script
-- Docker
-- AWS
+- Docker / Kubernetes
+- AWS EC2, S3
 - Notion, Slack, Trello
-- Redis
 
 
 ---
