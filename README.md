@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-# Tech Stacks
+### <p align="center" font="bold">Tech Stacks</p>
 
 <p align="center">
-자신 있는 기술<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
@@ -19,6 +18,11 @@
 <img src="https://img.shields.io/badge/Amazon AWS-2171QC?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&logo=MySQL&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&logo=Django&logoColor=white"/></a></p>
+
+<p align="center">  
+<img src="https://img.shields.io/badge/Power BI-7201AC?style=flat-square&logo=Power BI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-7201AC?style=flat-square&logo=Tableau&logoColor=white"/></a>
+</p>
 
 <p align="center">  
 <img src="https://img.shields.io/badge/Notion-7201AC?style=flat-square&logo=Notion&logoColor=white"/>
