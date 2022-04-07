@@ -1,23 +1,48 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-### <p align="center" font="bold">Tech Stacks</p>
+## <p align="center" font="bold">Tech Stacks👍</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-2171QC?style=flat-square&logo=Flask&logoColor=white"/></a></p>
+  <b>자신 있는 기술</b>
+  <br><br>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&color=red&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&color=red&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&color=red&logo=Microsoft SQL Server&logoColor=white"/></a>
+</p>
 
-### Used: 사용해 본 기술
-<p align="center">  
-<img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-8166CB?style=flat-square&logo=C++&logoColor=white"/></a></p>
+<p align="center">
+<img src="https://img.shields.io/badge/pandas-2171QC?style=flat-square&color=red&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-2171QC?style=flat-square&color=red&logo=Selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-2171QC?style=flat-square&logo=Apache Spark&color=red&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-2171QC?style=flat-square&color=red&logo=Plotly&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ScikitLearn-2171QC?style=flat-square&color=red&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-2171QC?style=flat-square&color=red&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-2171QC?style=flat-square&color=red&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-2171QC?style=flat-square&color=red&logo=Keras&logoColor=white"/></a>
+</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Visual Studio Code-2171QC?style=flat-square&color=red&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-2171QC?style=flat-square&color=red&logo=Git&logoColor=white"/></a>
+</p>
+
+<br>
+<p align="center"> 
+  <b>사용해본 기술</b>
+  <br><br>
+<img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=green&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-8166CB?style=flat-square&color=green&logo=C Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-8166CB?style=flat-square&color=green&logo=C++&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&color=green&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-2171QC?style=flat-square&color=green&logo=MariaDB&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Amazon AWS-2171QC?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&logo=MySQL&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&logo=Django&logoColor=white"/></a></p>
+<img src="https://img.shields.io/badge/Docker-1811CE?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-1811CE?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&logo=Django&logoColor=white"/></a>
+</p>
 
 <p align="center">  
 <img src="https://img.shields.io/badge/Power BI-7201AC?style=flat-square&logo=Power BI&logoColor=white"/>
@@ -29,12 +54,6 @@
 <img src="https://img.shields.io/badge/Slack-7201AC?style=flat-square&logo=Slack&logoColor=white"/></a>
 </p>
 
-- Java, C#, C++
-- .Net Framework / Django
-- Powershell / Unix Shell Script
-- Docker / Kubernetes
-- AWS EC2, S3
-- Notion, Slack, Trello, PowerBI, Tableau
 
 
 ---
