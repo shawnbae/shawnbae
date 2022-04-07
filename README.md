@@ -1,21 +1,31 @@
----
-## Introduction ✋
-Hi, I'm Junior Data Engineer/Scientist.
-<br>
-Interested in Data Engineering & MLOps & Data Analysis
-<br>
-Majored applied statistics in Yonsei University.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+
 
 ---
 ## Tech Stacks 
-<p align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-
-### Confident: 자신 있는 기술
-- Python, R, SQL, HTML, CSS
-- Pandas, Flask, scikit-learn, Tensorflow-keras, Pyspark, MSSQL
-- Git
+> 자신 있는 기술
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-2171QC?style=flat-square&logo=Flask&logoColor=white"/></a></p>
 
 ### Used: 사용해 본 기술
+<p align="center">  
+<img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-8166CB?style=flat-square&logo=C++&logoColor=white"/></a></p>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/Amazon AWS-2171QC?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&logo=MySQL&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&logo=Django&logoColor=white"/></a></p>
+
+<p align="center">  
+<img src="https://img.shields.io/badge/Notion-7201AC?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-7201AC?style=flat-square&logo=Slack&logoColor=white"/></a>
+</p>
+
 - Java, C#, C++
 - .Net Framework / Django
 - Powershell / Unix Shell Script
