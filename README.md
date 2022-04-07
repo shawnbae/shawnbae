@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
+# Tech Stacks
 
----
-## Tech Stacks 
-> 자신 있는 기술
 <p align="center">
+자신 있는 기술<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
@@ -36,7 +35,7 @@
 
 ---
 ## I'm Learning 📚
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/><img src="https://img.icons8.com/color/48/000000/elasticsearch.png"/><img src="https://img.icons8.com/color/48/000000/logstash.png"/><img src="https://img.icons8.com/color/48/000000/kibana.png"/><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/><img src="https://img.icons8.com/color/48/000000/splunk.png"/><img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+
 - **Computer Languages**: C++, Java, Julia, Go, Scala
 
 - **Frameworks & Tools**: Apache Hadoop & Spark, ELK, AWS, Spring
@@ -62,4 +61,4 @@
 - [교내 통계자료분석/데이터 마이닝 수업 프로젝트](https://github.com/shawnbae/Projects/tree/master/Classes)
 
 ---
-![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)![shawnbae's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnbae&theme=radical)
+![shawnbae's github stats](https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&theme=radical)
