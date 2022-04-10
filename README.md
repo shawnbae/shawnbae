@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## <p align="center" font="bold">Tech Stacks👍</p>
 
