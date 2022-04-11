@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-1811CE?style=flat-square&color=green&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-1811CE?style=flat-square&color=green&logo=Linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&color=green&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-1811CE?style=flat-square&color=green&logo=Redis&logoColor=white"/></a>
 </p>
 
 <p align="center">  
