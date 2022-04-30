@@ -34,7 +34,6 @@
   <br><br>
 <img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=green&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-8166CB?style=flat-square&color=green&logo=C Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-8166CB?style=flat-square&color=green&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&color=green&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-2171QC?style=flat-square&color=green&logo=MariaDB&logoColor=white"/></a>
 </p>
