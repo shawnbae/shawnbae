@@ -69,9 +69,9 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Kafka-8166CB?style=flat-square&color=purple&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-7201AC?style=flat-square&color=purple&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Elasticsearch-8166CB?style=flat-square&color=purple&logo=Elasticsearch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kafka-8166CB?style=flat-square&color=purple&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hive-8166CB?style=flat-square&color=purple&logo=Apache-Hive&logoColor=white"/></a>
 </p>
 
