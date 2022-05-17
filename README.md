@@ -34,6 +34,7 @@
   <br><br>
 <img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=green&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-8166CB?style=flat-square&color=green&logo=C Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scala-8166CB?style=flat-square&color=green&logo=Scala&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&color=green&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-2171QC?style=flat-square&color=green&logo=MariaDB&logoColor=white"/></a>
 </p>
@@ -64,7 +65,6 @@
   <br><br>
 <img src="https://img.shields.io/badge/Julia-7201AC?style=flat-square&color=purple&logo=Julia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-8166CB?style=flat-square&color=purple&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Scala-8166CB?style=flat-square&color=purple&logo=Scala&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-8166CB?style=flat-square&color=purple&logo=JavaScript&logoColor=white"/></a>
 </p>
 
