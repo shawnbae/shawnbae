@@ -77,7 +77,7 @@
 
 ---
 ## <p align="center" font="bold">Work Experience 👨‍💼</p>
-#### <p align="center" font="bold">SK Inc. materials (2021.04 - )
+#### <p align="center" font="bold">SK Inc. materials (2021.04 - 2022.07)
   <ul align="center">Server-Client DataBase System: 공정 데이터 정제 자동화 프로세스를 통한 MSSQL RTDB 구축</ul>
   <ul align="center">Data Analysis: 공정 시계열 데이터 분석</ul>
   <ul align="center">RPA Development: Python API를 활용한 업무 자동화 개발</ul>
