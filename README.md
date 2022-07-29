@@ -24,8 +24,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Git-2171QC?style=flat-square&color=red&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-2171QC?style=flat-square&color=red&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-2171QC?style=flat-square&color=red&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS-2171QC?style=flat-square&color=red&logo=CSS3&logoColor=white"/></a>
 </p>
 
 <br>
