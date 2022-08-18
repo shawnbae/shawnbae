@@ -6,6 +6,7 @@
   <b>자신 있는 기술</b>
   <br><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&color=red&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=red&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-2171QC?style=flat-square&logo=R&color=red&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-8166CB?style=flat-square&color=red&logo=Microsoft SQL Server&logoColor=white"/></a>
 </p>
@@ -30,7 +31,6 @@
 <p align="center"> 
   <b>사용해본 기술</b>
   <br><br>
-<img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=green&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-8166CB?style=flat-square&color=green&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scala-8166CB?style=flat-square&color=green&logo=Scala&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-2171QC?style=flat-square&color=green&logo=MySQL&logoColor=white"/></a>
