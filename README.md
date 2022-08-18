@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Docker-1811CE?style=flat-square&color=green&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-1811CE?style=flat-square&color=green&logo=Kubernetes&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-1811CE?style=flat-square&color=green&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-1811CE?style=flat-square&color=green&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kafka-8166CB?style=flat-square&color=green&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-1811CE?style=flat-square&color=green&logo=Redis&logoColor=white"/></a>
 </p>
 
@@ -55,19 +55,6 @@
 <p align="center">  
 <img src="https://img.shields.io/badge/Notion-7201AC?style=flat-square&color=green&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-7201AC?style=flat-square&color=green&logo=Slack&logoColor=white"/></a>
-</p>
-
-<br>
-<p align="center"> 
-  <b>배우고자 하는 기술</b>
-  <br><br>
-<img src="https://img.shields.io/badge/Julia-7201AC?style=flat-square&color=purple&logo=Julia&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Go-8166CB?style=flat-square&color=purple&logo=Go&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Kafka-8166CB?style=flat-square&color=purple&logo=Apache Kafka&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hive-8166CB?style=flat-square&color=purple&logo=Apache-Hive&logoColor=white"/></a>
 </p>
 
 ---
