@@ -63,13 +63,10 @@
   <br><br>
 <img src="https://img.shields.io/badge/Julia-7201AC?style=flat-square&color=purple&logo=Julia&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-8166CB?style=flat-square&color=purple&logo=Go&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-8166CB?style=flat-square&color=purple&logo=JavaScript&logoColor=white"/></a>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Kafka-8166CB?style=flat-square&color=purple&logo=Apache Kafka&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-7201AC?style=flat-square&color=purple&logo=Spring&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Elasticsearch-8166CB?style=flat-square&color=purple&logo=Elasticsearch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Hive-8166CB?style=flat-square&color=purple&logo=Apache-Hive&logoColor=white"/></a>
 </p>
 
