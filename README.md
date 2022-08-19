@@ -52,11 +52,6 @@
 <img src="https://img.shields.io/badge/Tableau-7201AC?style=flat-square&color=green&logo=Tableau&logoColor=white"/></a>
 </p>
 
-<p align="center">  
-<img src="https://img.shields.io/badge/Notion-7201AC?style=flat-square&color=green&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-7201AC?style=flat-square&color=green&logo=Slack&logoColor=white"/></a>
-</p>
-
 ---
 ## <p align="center" font="bold">Work Experience 👨‍💼</p>
 #### <p align="center" font="bold">SK Inc. materials (2021.04 - 2022.07)
