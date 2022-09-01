@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/PySpark-2171QC?style=flat-square&logo=Apache Spark&color=red&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-2171QC?style=flat-square&color=red&logo=Plotly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ScikitLearn-2171QC?style=flat-square&color=red&logo=scikit-learn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-2171QC?style=flat-square&color=red&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-2171QC?style=flat-square&color=red&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-2171QC?style=flat-square&color=red&logo=Keras&logoColor=white"/></a>
 </p>
