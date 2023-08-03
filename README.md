@@ -46,21 +46,6 @@
 </p>
 
 ---
-## <p align="center" font="bold">Work Experience 👨‍💼</p>
-#### <p align="center" font="bold">SK Inc. materials (2021.04 - 2022.07)
-  <ul align="center">Server-Client DataBase System: 공정 데이터 정제 자동화 프로세스를 통한 MSSQL RTDB 구축</ul>
-  <ul align="center">Data Analysis: 공정 시계열 전력 데이터를 활용한 잠재적인 수율 저하 요인 분석 및 생산량 최적화</ul>
-  <ul align="center">RPA Development: Python API를 활용한 업무 자동화 개발</ul>
-  <ul align="center">Basic Web Development: Flask 기반 공정 데이터 Dashboard 제작</ul>
-  <ul align="center">사내 Python 교육</ul>
-</p>
-<br>
-
-#### <p align="center" font="bold">Lotter Members (2019.06 - 2020.02)
-  <ul align="center">SQL을 통한 Data Mart 제작</ul>
-</p>
-
----
 ## <p align="center" font="bold">Personal Projects 🧑‍💼💼
 - [2020 빅콘테스트 혁신아이디어 부문 프로젝트](https://github.com/shawnbae/Projects/blob/master/Competition/2020%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%98%81%EC%8B%A0%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B6%80%EB%AC%B8/%EC%97%AD%EC%82%BC1701%ED%98%B8.pdf)
 - [혁신성장 청년인재 수료 프로젝트](https://github.com/shawnbae/Projects/blob/master/ECOBEE.pdf)
