@@ -54,4 +54,3 @@
 - [딥러닝 논문 스터디 및 구현 프로젝트](https://github.com/shawnbae/Projects/tree/master/DeepLearning) 
 - [교내 통계자료분석/데이터 마이닝 수업 프로젝트](https://github.com/shawnbae/Projects/tree/master/Classes)
 </p>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnbae&show_icons=true&count_private=true"></a>
