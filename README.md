@@ -3,7 +3,7 @@
 ## <p align="center" font="bold">Tech Stacks👍</p>
 
 <p align="center">
-  <b>자신 있는 기술</b>
+  <b>자주 사용하는 기술</b>
   <br><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&color=red&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-7201AC?style=flat-square&color=red&logo=Java&logoColor=white"/></a>
@@ -28,7 +28,7 @@
 
 <br>
 <p align="center"> 
-  <b>사용해본 기술</b>
+  <b>한번 사용해본 기술</b>
   <br><br>
 <img src="https://img.shields.io/badge/CSharp-8166CB?style=flat-square&color=green&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scala-8166CB?style=flat-square&color=green&logo=Scala&logoColor=white"/></a>
